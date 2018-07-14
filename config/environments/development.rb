@@ -60,6 +60,6 @@ Rails.application.configure do
     enable_starttls_auto: true,
     authentication: 'plain',
     user_name: 'hafizalwan@gmail.com',
-    password: 'Enter the email password here'
+    password: 'Enter email password here'
   }
 end
